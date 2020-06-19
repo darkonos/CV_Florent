@@ -1,4 +1,4 @@
-# CV_Florent
+# CV_Pauline
 Transformez votre CV en site Web (Projet2 Openclassroom)
 
 Les consignes de ce projet sont les suivantes :

@@ -8,4 +8,4 @@ Les consignes de ce projet sont les suivantes :
 ▬ Utiliser Git (après apprentissage, choix d'utiliser GitKraken pour plus d'efficacité)
 ▬ Pousser le CV sur Github et le pousser sur Github 
 
-voir le modèle : (repository https://github.com/PaulineLesueur/PrepWebP2)
+voir le modèle : (repository https://github.com/darkonos/CV_Florent.git)

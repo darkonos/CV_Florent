@@ -1,5 +1,5 @@
 # CV_Florent
-Transformez votre CV en site Web (Projet2 Openclassroom)
+Projet2 : Transformez votre CV en site Web (Openclassroom)
 
 Les consignes de ce projet sont les suivantes :
 ▬ Suivre un modèle donné (celui ci : https://i.imgur.com/XNHMwXh.png )
